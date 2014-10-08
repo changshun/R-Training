@@ -110,7 +110,7 @@ is.atomic(dbl)
 complex(10)
 c(1+i,1+2i,1+3i)
 as.complex(c(1,2,3))
-is.complex(c(1+i,1+2i,1+3i))
+is.complex(c(1+1i,1+2i,1+3i))
 ```
 
 
